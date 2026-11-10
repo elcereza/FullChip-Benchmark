@@ -1,0 +1,8 @@
+==== EGL HEADLESS V1.2 ====
+GL_RENDERER: V3D 4.2.14.0
+gpu frames=21 t=2.1s fps=10.1
+GPU_DRAW_FRAMES: 31
+
+EGL backend: GBM /dev/dri/renderD128
+EGL configs=48, KHR_surfaceless=yes, configless=yes
+EGL surface: EGL_NO_SURFACE + FBO
