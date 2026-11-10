@@ -1,4 +1,4 @@
-# FullChip Benchmark v1.3
+# FullChip Benchmark
 
 **Teste de estresse térmico de CPU, GPU V3D e RAM para Raspberry Pi 4.** Uma ferramenta criada para comparar o comportamento de diferentes montagens de dissipação, observando aquecimento, resfriamento, frequência e possíveis limitações de desempenho.
 
